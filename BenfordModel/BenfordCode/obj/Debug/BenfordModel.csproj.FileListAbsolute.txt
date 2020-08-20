@@ -1,0 +1,12 @@
+c:\users\abhavekar\documents\visual studio 2015\BenfordModel\BenfordModel\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\abhavekar\documents\visual studio 2015\BenfordModel\BenfordModel\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\abhavekar\documents\visual studio 2015\BenfordModel\BenfordModel\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\abhavekar\documents\visual studio 2015\BenfordModel\BenfordModel\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\abhavekar\documents\visual studio 2015\BenfordModel\BenfordModel\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+c:\users\abhavekar\documents\visual studio 2015\BenfordModel\BenfordModel\ConsoleApplication1\obj\Debug\BenfordModel.csprojResolveAssemblyReference.cache
+C:\Users\abhavekar\Documents\Visual Studio 2015\BenfordModel\BenfordModel\BenfordCode\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\abhavekar\Documents\Visual Studio 2015\BenfordModel\BenfordModel\BenfordCode\obj\Debug\ConsoleApplication1.exe
+C:\Users\abhavekar\Documents\Visual Studio 2015\BenfordModel\BenfordModel\BenfordCode\obj\Debug\ConsoleApplication1.pdb
+C:\Users\abhavekar\Documents\Visual Studio 2015\BenfordModel\BenfordModel\BenfordCode\bin\Debug\ConsoleApplication1.exe
+C:\Users\abhavekar\Documents\Visual Studio 2015\BenfordModel\BenfordModel\BenfordCode\bin\Debug\ConsoleApplication1.pdb
+C:\Users\abhavekar\Documents\Visual Studio 2015\BenfordModel\BenfordModel\BenfordCode\obj\Debug\BenfordModel.csprojResolveAssemblyReference.cache
